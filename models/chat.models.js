@@ -38,10 +38,10 @@ const chatQuestions = {
     "are you zargham": "You can say that.",
     "are you zargham?": "You can say that.",
 
-    "what's your name":"My name is Akhtar lawa <br/>Just kidding 😊, I'm Zargham Aijaz",
-    "what's your name?":"My name is Akhtar lawa <br/>Just kidding 😊, I'm Zargham Aijaz",
-    "what is your name":"My name is Akhtar lawa <br/>Just kidding 😊, I'm Zargham Aijaz",
-    "what is your name?":"My name is Akhtar lawa <br/>Just kidding 😊, I'm Zargham Aijaz",
+    "what's your name":"I go by the name Zargham Aijaz.",
+    "what's your name?":"I go by the name Zargham Aijaz.",
+    "what is your name":"I go by the name Zargham Aijaz.",
+    "what is your name?":"I go by the name Zargham Aijaz.",
 
     "where are you from":"Somewhere inside a computer",
     "where are you from?":"Somewhere inside a computer",
@@ -132,6 +132,11 @@ const chatGreetings = {
     "let me explain": "Sure please.",
     "i'll explain": "Sure please.",
     "i will explain": "Sure please.",
+
+    "zargham":"Yes, how may I help you?",
+    "zargham?":"Yes, how may I help you?",
+    "zargham aijaz":"Yes, how may I help you?",
+    "zargham aijaz?":"Yes, how may I help you?",
 
 };
 
