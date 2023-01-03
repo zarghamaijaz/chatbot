@@ -51,8 +51,8 @@ const chatQuestions = {
     "how is the weather?": "My CPU is getting a bit warmer.",
     "how is the weather": "My CPU is getting a bit warmer.",
 
-    "are you real": "Is anything real?",
-    "are you real?": "Is anything real?",
+    "are you real": "I am not a real human but I am a program developed by a real human. 🙃",
+    "are you real?": "I am not a real human but I am a program developed by a real human. 🙃",
 
     "are you a human":"No I am a program.",
     "are you a human?":"No I am a program.",
@@ -89,16 +89,20 @@ const chatQuestions = {
     "what can you do": "I can answer some of your questions",
     "what else can you do?": "I have some limitations therefore, i cannot do much :(",
     "what else can you do": "I have some limitations therefore, i cannot do much :(",
-    "how are you":"I'm good thank you :)",
-    "how are you?":"I'm good thank you :)",
+    "how are you":"I'm fine thank you 😊",
+    "how are you?":"I'm fine thank you 😊",
 
 };
 const chatGreetings = {
     "aoa":"W.salam",
     "aoa!":"W.salam",
     "assalamualaikum":"WaAlaikumAssalam",
+    "assalamualaikum!":"WaAlaikumAssalam",
     "assalamoalaikum":"WaAlaikumAssalam",
+    "assalamoalaikum!":"WaAlaikumAssalam",
     "assalam o alaikum":"WaAlaikumAssalam",
+    "assalam o alaikum!":"WaAlaikumAssalam",
+    
     "hey":"Hey how can I help you?",
     "hey!":"Hey! how can I help you?",
     "hey there":"Hey there! how can I help you?",
@@ -138,6 +142,8 @@ const chatGreetings = {
     "zargham aijaz":"Yes, how may I help you?",
     "zargham aijaz?":"Yes, how may I help you?",
 
+    "sure":"Perfect, what else can I do for you?"
+
 };
 
 
@@ -162,7 +168,7 @@ const chatLaughs = {
     "hahah":"hahahaha",
     "hahaha":"hahahaha",
     "hahahaha":"hahahaha",
-    "lol": "Yeah Lol",
+    "lol": "🤣",
 };
 const chatConversations = {
     "it's ok":"Thanks<br/>Would you like to ask anything else?",
@@ -180,7 +186,7 @@ const chatConversations = {
     "thanks": "My pleasure.<br/> Anything else?",
     "thank you": "Pleasure is always mine. <br/> Anything else?",
     "wow": "I'm happy that you are amazed.",
-    "i forgot": "Me too. Lol."
+    "i forgot": "Me too. Lol.",
 
 };
 
