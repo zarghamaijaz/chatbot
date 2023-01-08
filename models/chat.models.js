@@ -46,10 +46,10 @@ const chatQuestions = {
     "where are you from":"Somewhere inside a computer",
     "where are you from?":"Somewhere inside a computer",
 
-    "how's the weather?": "My CPU is getting a bit warmer.",
-    "how's the weather": "My CPU is getting a bit warmer.",
-    "how is the weather?": "My CPU is getting a bit warmer.",
-    "how is the weather": "My CPU is getting a bit warmer.",
+    "how's the weather?": "The weather is pretty good for a chatbot.",
+    "how's the weather": "The weather is pretty good for a chatbot.",
+    "how is the weather?": "The weather is pretty good for a chatbot.",
+    "how is the weather": "The weather is pretty good for a chatbot.",
 
     "are you real": "Is anything real?",
     "are you real?": "Is anything real?",
@@ -162,7 +162,6 @@ const chatLaughs = {
 const chatConversations = {
     "it's ok":"Thanks<br/>Would you like to ask anything else?",
     "its ok":"Thanks<br/>Would you like to ask anything else?",
-    "it is ok":"Thanks<br/>Would you like to ask anything else?",
     "it is ok":"Thanks<br/>Would you like to ask anything else?",
 
     "ok": "Great. Anything else I can do for you?",
